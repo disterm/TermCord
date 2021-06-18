@@ -1,5 +1,5 @@
 # TermCord
-[![](websitebutton.png)](https://sites.google.com/view/termcord)
+[![](websitebutton.png)](https://sites.google.com/view/termcord)[![](linuxversionbutton.png)](https://github.com/sharknix/termcord-linux)
 Ever wanted Discord on a terminal? Get TermCord, the easy-to-use terminal "app" made to make your life a little bit easier. With it being light-weight and fast, it can connect in seconds! Most of all, it even supports user tokens, aswell as bot tokens!
 
 ## Install
