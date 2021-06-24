@@ -1,6 +1,6 @@
-# TermCord
+# DisTerm
 [![](websitebutton.png)](https://sites.google.com/view/termcord) [![](linuxversionbutton.png)](https://github.com/sharknix/termcord-linux)</br></br>
-Ever wanted Discord on a terminal? Get TermCord, the easy-to-use terminal "app" made to make your life a little bit easier. With it being light-weight and fast, it can connect in seconds! Most of all, it even supports user tokens, aswell as bot tokens!
+Ever wanted Discord on a terminal? Get DisTerm, the easy-to-use terminal "app" made to make your life a little bit easier. With it being light-weight and fast, it can connect in seconds! Most of all, it even supports user tokens, aswell as bot tokens!
 
 ## Install
 - Click [here](https://github.com/sharknix/TermCord/archive/refs/heads/main.zip) and save the ``TermCord-master.zip`` file included.
